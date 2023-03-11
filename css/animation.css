@@ -29,6 +29,10 @@
 }
 /* Esercizio 6 */
 .ex-6-img:hover{
-    transition: 2s;
+    filter: grayscale(100%);
+}
+/* Esercizio 7 */
+.ex-7-img:hover{
+    transition: 3s;
     filter: grayscale(100%);
 }
