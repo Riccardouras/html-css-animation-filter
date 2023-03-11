@@ -81,11 +81,17 @@
     }
 }
 /* Esercizio 12*/
-/* Esercizio 13*/
-.ex-13-button:hover{
-      animation: button 0.5s infinite;
+.ex-12-top-white:hover{
+      animation: button 2s;
+      transform: translateY(2);
+      background-color: white ;
 }
-
+.ex-12-bottom-white:hover{
+      animation: button 2s;
+      transform: translateX(2);
+      background-color: white ;
+}
+/* Esercizio 13*/
 @keyframes button {
   0% {
     transform: rotate(0deg);
