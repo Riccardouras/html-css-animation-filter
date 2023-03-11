@@ -43,3 +43,11 @@
     filter: contrast(10%);
     border-radius: 20px;
 }
+/* Esercizio 9 */
+.ex-9-img:hover{
+    transition: 2s;
+    filter: grayscale(50%);
+    filter: hue-rotate(50%);
+    border-radius: 20px;
+    transform: scale(3);
+}
