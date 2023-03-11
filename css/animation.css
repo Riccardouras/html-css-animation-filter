@@ -80,3 +80,17 @@
   100% { transform: rotate(0deg);
     }
 }
+/* Esercizio 12*/
+/* Esercizio 13*/
+.ex-13-button:hover{
+      animation: button 0.5s infinite;
+}
+
+@keyframes button {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(359deg);
+  }
+}
