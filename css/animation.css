@@ -27,3 +27,8 @@
     transition: 3s;
     transform: scale(0.5);
 }
+/* Esercizio 6 */
+.ex-6-img:hover{
+    transition: 2s;
+    filter: grayscale(100%);
+}
