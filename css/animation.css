@@ -6,4 +6,11 @@
 /* Esercizio 2 */
 .ex-2-square:hover{
     transition: 2s;
+    width: 100%;
 }
+/* Esercizio 3 */
+.ex-3-square:hover{
+    transition: 2s;
+    border-radius: 100%;
+}
+/* Esercizio 4 */
